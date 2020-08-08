@@ -12,6 +12,7 @@
 <h3>Εισαγωγή στο Arduino Mega και στην Wiring</h3>
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Code/Greek/hello.ino">Hello World</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Code/Greek/print.ino">Η εντολή print</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Code/Greek/blink.ino">Blink Led</a></li> 
  
 
