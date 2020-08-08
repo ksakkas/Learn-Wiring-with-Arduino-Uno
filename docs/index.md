@@ -3,7 +3,7 @@
 
 </head>
 <body>
-<h1>Learn to programming in the Arduino Mega</h1>
+<h1>Learn how to programming with Arduino Mega</h1>
 <p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
 <p> Κωνσταντίνος Σακκάς</p>
 <p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
