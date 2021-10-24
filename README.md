@@ -23,7 +23,8 @@
  
  <h3>Ασκήσεις Εργαστηρίου</h3>
 <ul>
- 
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/lab3_1.ino">Εμφάνιση Δεδομένων (3.1)</a></li>
+
  </ul>
 </body>
 </html>
