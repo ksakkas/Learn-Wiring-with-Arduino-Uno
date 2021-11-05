@@ -35,14 +35,14 @@
 
 ## Functionality
 
-To use the Time library in an Arduino sketch, include TimeLib.h.
-
+Για να χρησιμοποιήσετε τη βιβλιοθήκη Time σε ένα σκίτσο Arduino, συμπεριλάβετε το TimeLib.h.
+ 
 ```c
 #include <TimeLib.h>
 ```
 
-The functions available in the library include
-
+Οι συναρτήσεις που είναι διαθέσιμες στη βιβλιοθήκη περιλαμβάνουν
+ 
 ```c
 hour();            // the hour now  (0-23)
 minute();          // the minute now (0-59)
@@ -53,8 +53,8 @@ month();           // the month now (1-12)
 year();            // the full four digit year: (2009, 2010 etc)
 ```
 
-there are also functions to return the hour in 12-hour format
-
+Υπάρχουν επίσης συναρτήσεις για την επιστροφή της ώρας σε μορφή 12 ωρών
+ 
 ```c
 hourFormat12();    // the hour now in 12 hour format
 isAM();            // returns true if time now is AM
@@ -63,10 +63,10 @@ isPM();            // returns true if time now is PM
 now();             // returns the current time as seconds since Jan 1 1970
 ```
 
-The time and date functions can take an optional parameter for the time. This prevents
-errors if the time rolls over between elements. For example, if a new minute begins
-between getting the minute and second, the values will be inconsistent. Using the
-following functions eliminates this problem
+Οι λειτουργίες ώρας και ημερομηνίας μπορούν να λάβουν μια προαιρετική παράμετρο για την ώρα. Αυτό αποτρέπει
+σφάλματα εάν ο χρόνος κυλήσει μεταξύ των στοιχείων. Για παράδειγμα, αν ξεκινήσει ένα νέο λεπτό
+μεταξύ λήψης του λεπτού και του δευτερολέπτου, οι τιμές θα είναι ασυνεπείς. Χρησιμοποιώντας το
+οι ακόλουθες λειτουργίες εξαλείφουν αυτό το πρόβλημα
 
 ```c
 time_t t = now(); // store the current time in time variable t
@@ -79,8 +79,8 @@ month(t);         // the month for the given time t
 year(t);          // the year for the given time t
 ```
 
-Functions for managing the timer services are:
-
+Οι λειτουργίες για τη διαχείριση των υπηρεσιών χρονοδιακόπτη είναι:
+ 
 ```c
 setTime(t);                      // set the system time to the give time t
 setTime(hr,min,sec,day,mnth,yr); // alternative to above, yr is 2 or 4 digit yr
@@ -93,18 +93,18 @@ timeNeedsSync                    // the time had been set but a sync attempt did
 timeSet                          // the time is set and is synced
 ```
 
-Time and Date values are not valid if the status is `timeNotSet`. Otherwise, values can be used but
-the returned time may have drifted if the status is `timeNeedsSync`. 	
+Οι τιμές ώρας και ημερομηνίας δεν είναι έγκυρες εάν η κατάσταση είναι "timeNotSet". Διαφορετικά, μπορούν να χρησιμοποιηθούν τιμές αλλά
+ο χρόνος επιστροφής μπορεί να έχει μετατοπιστεί εάν η κατάσταση είναι "timeNeedsSync".
 
 ```c
 setSyncProvider(getTimeFunction);  // set the external time provider
 setSyncInterval(interval);         // set the number of seconds between re-sync
 ```
 
-There are many convenience macros in the `time.h` file for time constants and conversion
-of time units.
+Υπάρχουν πολλές μακροεντολές ευκολίας στο αρχείο «time.h» για σταθερές χρόνου και μετατροπή
+των χρονικών μονάδων.
 
-To use the library, copy the download to the Library directory.
+Για να χρησιμοποιήσετε τη βιβλιοθήκη, αντιγράψτε τη λήψη στον κατάλογο της Βιβλιοθήκης.
 
 
  
