@@ -32,11 +32,11 @@
  <h3>Η Βιβλιοθήκη Time</h3>
 
 
-<h4> Functionality
+<h4> Functionality<br>
 
 Για να χρησιμοποιήσετε τη βιβλιοθήκη Time σε ένα σκίτσο Arduino, συμπεριλάβετε το TimeLib.h.
  </h4>
- <br><br>
+ <br>
  
 <div>
 #include <TimeLib.h>
