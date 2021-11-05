@@ -31,14 +31,12 @@
  
  <h3>Η Βιβλιοθήκη Time</h3>
 
+<h2 id="functionality">Functionality</h2>
+<p>Για να χρησιμοποιήσετε τη βιβλιοθήκη Time σε ένα σκίτσο Arduino, συμπεριλάβετε το TimeLib.h.</p>
+<pre><code class="lang-c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;TimeLib.h&gt;</span></span>
+</code></pre>
+<p>Οι συναρτήσεις που είναι διαθέσιμες στη βιβλιοθήκη περιλαμβάνουν</p>
 
- <h4> <b>Functionality</b></h4>
-<br>
-Για να χρησιμοποιήσετε τη βιβλιοθήκη Time σε ένα σκίτσο Arduino, συμπεριλάβετε το TimeLib.h.
-
- <br>
- 
- 
 
 
 Οι συναρτήσεις που είναι διαθέσιμες στη βιβλιοθήκη περιλαμβάνουν
