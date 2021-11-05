@@ -30,7 +30,7 @@
  </ul>
  
  <h3>Η Βιβλιοθήκη Time</h3>
- # Arduino Time Library
+# Arduino Time Library
 
 
 ## Functionality
