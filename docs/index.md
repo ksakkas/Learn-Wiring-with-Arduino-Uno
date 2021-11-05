@@ -44,15 +44,15 @@
 
 Οι συναρτήσεις που είναι διαθέσιμες στη βιβλιοθήκη περιλαμβάνουν
  
-```c
-hour();            // the hour now  (0-23)
-minute();          // the minute now (0-59)
-second();          // the second now (0-59)
-day();             // the day now (1-31)
-weekday();         // day of the week (1-7), Sunday is day 1
-month();           // the month now (1-12)
-year();            // the full four digit year: (2009, 2010 etc)
-```
+<pre><code class="lang-c"><span class="hljs-selector-tag">hour</span>();            <span class="hljs-comment">// the hour now  (0-23)</span>
+<span class="hljs-selector-tag">minute</span>();          <span class="hljs-comment">// the minute now (0-59)</span>
+<span class="hljs-selector-tag">second</span>();          <span class="hljs-comment">// the second now (0-59)</span>
+<span class="hljs-selector-tag">day</span>();             <span class="hljs-comment">// the day now (1-31)</span>
+<span class="hljs-selector-tag">weekday</span>();         <span class="hljs-comment">// day of the week (1-7), Sunday is day 1</span>
+<span class="hljs-selector-tag">month</span>();           <span class="hljs-comment">// the month now (1-12)</span>
+<span class="hljs-selector-tag">year</span>();            <span class="hljs-comment">// the full four digit year: (2009, 2010 etc)</span>
+</code></pre>
+
 
 Υπάρχουν επίσης συναρτήσεις για την επιστροφή της ώρας σε μορφή 12 ωρών
  
