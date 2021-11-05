@@ -40,7 +40,7 @@
  
 <div style="bacgkround-color:#f2f2f2;">
 #include <TimeLib.h>
- </div>
+</div>
 
 Οι συναρτήσεις που είναι διαθέσιμες στη βιβλιοθήκη περιλαμβάνουν
  
