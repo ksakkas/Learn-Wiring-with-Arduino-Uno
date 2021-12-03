@@ -29,6 +29,14 @@
 
  </ul>
  
+   <h3>Ασκήσεις Εργαστηρίου με Αισθητήρες</h3>
+<ul>
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/dht11.ino">Αισθητήρας DHT11</a></li>
+
+ </ul>
+ 
+ <br><br>
+ 
  <h3>Η Βιβλιοθήκη Time</h3>
 
 <h2 id="functionality">Functionality</h2>
