@@ -32,7 +32,7 @@
    <h3>Ασκήσεις Εργαστηρίου με Αισθητήρες</h3>
 <ul>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/dht11.ino">Αισθητήρας DHT11</a></li>
-<img src="./img/dht11.jpg" width="50%">
+<img src="./img/dht112.jpg" width="50%">
  </ul>
  
  <br><br>
