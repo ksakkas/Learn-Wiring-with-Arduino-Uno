@@ -34,6 +34,10 @@
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/dht11.ino">Αισθητήρας DHT11</a></li>
 <img src="./img/dht112.jpg" width="30%">
  <img src="./img/dht11.jfif" width="50%">
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/ultrasonic.ino">Αισθητήρας Ultrasonic HC-SR04</a></li>
+ <img src="./img/ul1.jfif" width="50%">
+ <img src="./img/ul2.jfif" width="50%">
+
  </ul>
  
  <br><br>
