@@ -37,7 +37,10 @@
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/ultrasonic.ino">Αισθητήρας Ultrasonic HC-SR04</a></li>
  <img src="./img/ul1.jfif" width="40%">
  <img src="./img/ul2.jfif" width="40%">
-
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor1.ino">Αισθητήρας photoresistor (δομή)</a></li>
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor2.ino">Αισθητήρας photoresistor με led</a></li>
+ <img src="./img/p1.jpg" width="40%">
+ <img src="./img/p2.PNG" width="40%">
  </ul>
  
  <br><br>
