@@ -43,6 +43,11 @@
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor2.ino">Αισθητήρας photoresistor με led</a></li>
  <img src="./docs/img/p1.jpg" width="40%">
  <img src="./docs/img/p2.PNG" width="40%">
+ <br>
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/piezo.ino">Αισθητήρας Piezo (buzzer)</a></li>
+  <img src="./docs/img/piezo.png" width="40%">
+
+
  </ul>
  
  <br><br>
