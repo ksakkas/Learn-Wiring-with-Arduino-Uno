@@ -40,7 +40,7 @@
  <img src="./img/ul2.jfif" width="40%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/ultrasonic2.ino">Αισθητήρας Ultrasonic Εργασίας</a></li>
- <img src="./img/uls2.png" width="60%">
+ <img src="./img/uls3.png" width="60%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor1.ino">Αισθητήρας photoresistor (δομή)</a></li>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor2.ino">Αισθητήρας photoresistor με led</a></li>
