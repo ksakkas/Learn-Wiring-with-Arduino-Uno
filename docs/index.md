@@ -39,10 +39,14 @@
  <img src="./img/ul1.jfif" width="40%">
  <img src="./img/ul2.jfif" width="40%">
  <br>
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/ultrasonic2.ino">Αισθητήρας Ultrasonic Εργασίας</a></li>
+ <img src="./img/ul1.jfif" width="40%">
+ <img src="./img/ul2.jfif" width="40%">
+ <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor1.ino">Αισθητήρας photoresistor (δομή)</a></li>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor2.ino">Αισθητήρας photoresistor με led</a></li>
  <img src="./img/p1.jpg" width="40%">
- <img src="./img/p2.PNG" width="40%">
+ <img src="./img/uls2.png" width="40%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/piezo.ino">Αισθητήρας Piezo (buzzer)</a></li>
   <img src="./img/piezo.png" width="40%">
