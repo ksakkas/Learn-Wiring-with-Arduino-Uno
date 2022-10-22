@@ -49,7 +49,9 @@
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/sensor_sound.ino">Αισθητήρας Ήχου</a></li>
   <img src="./docs/img/soundsensor.jpg" width="40%">
-
+ <br>
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/pir.ino">Αισθητήρας Ανίχνευσης Κίνησης PIR</a></li>
+  <img src="./docs/img/pir.png" width="40%">
  </ul>
  
  <br><br>
