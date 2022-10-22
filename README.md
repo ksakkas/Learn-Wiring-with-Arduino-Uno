@@ -7,7 +7,7 @@
 <p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
 <p>Αρχιτεκτονική Υπολογιστών Εργαστήριο - 3ο Εξάμηνο</p>
 <p> Κωνσταντίνος Σακκάς</p>
-<p>Copyright © 2021 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
+<p>Copyright © 2022 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
 <hr>
 
 <h3>Εισαγωγή στο Arduino Uno και στην Wiring</h3>
@@ -46,7 +46,9 @@
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/piezo.ino">Αισθητήρας Piezo (buzzer)</a></li>
   <img src="./docs/img/piezo.png" width="40%">
-
+ <br>
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/sensor_sound.ino">Αισθητήρας Ήχου</a></li>
+  <img src="./docs/img/soundsensor.jpg" width="40%">
 
  </ul>
  
