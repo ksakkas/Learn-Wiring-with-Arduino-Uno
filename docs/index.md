@@ -32,7 +32,7 @@
  
    <h3>Ασκήσεις Εργαστηρίου με Αισθητήρες</h3>
 <ul>
-  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/button.ino">Button</a></li>
+  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/button.ino">Button State</a></li>
 <img src="./img/button.png" width="60%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/dht11.ino">Αισθητήρας DHT11</a></li>
