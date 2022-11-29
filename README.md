@@ -40,6 +40,9 @@
  <img src="./docs/img/ul1.jfif" width="40%">
  <img src="./docs/img/ul2.jfif" width="40%">
  <br>
+ <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Uno/blob/master/Lab/photoresistorlab.ino">Αισθητήρας photoresistor εργασίας</a></li>
+ <img src="./docs/img/photoresistorlab.png" width="80%">
+ <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor1.ino">Αισθητήρας photoresistor (δομή)</a></li>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor2.ino">Αισθητήρας photoresistor με led</a></li>
  <img src="./docs/img/p1.jpg" width="40%">
