@@ -33,23 +33,23 @@
    <h3>Ασκήσεις Εργαστηρίου με Αισθητήρες</h3>
 <ul>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/dht11.ino">Αισθητήρας DHT11</a></li>
-<img src="../docs/img/dht112.jpg" width="30%">
- <img src="../docs/img/dht11.jfif" width="50%">
+<img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/dht112.jpg" width="30%">
+ <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/dht11.jfif" width="50%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/ultrasonic.ino">Αισθητήρας Ultrasonic HC-SR04</a></li>
- <img src="../docs/img/ul1.jfif" width="40%">
- <img src="../docs/img/ul2.jfif" width="40%">
+ <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/ul1.jfif" width="40%">
+ <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/ul2.jfif" width="40%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Uno/blob/master/Lab/photoresistorlab.ino">Αισθητήρας photoresistor εργασίας</a></li>
- <img src="../docs/img/photoresistorlab.png" width="80%">
+ <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/photoresistorlab.png" width="80%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor1.ino">Αισθητήρας photoresistor (δομή)</a></li>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/photoresistor2.ino">Αισθητήρας photoresistor με led</a></li>
- <img src="../docs/img/p1.jpg" width="40%">
- <img src="../docs/img/p2.PNG" width="40%">
+ <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/p1.jpg" width="40%">
+ <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/p2.PNG" width="40%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/piezo.ino">Αισθητήρας Piezo (buzzer)</a></li>
-  <img src="../docs/img/piezo.png" width="40%">
+  <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/piezo.png" width="40%">
  <br>
  <li><a href="https://github.com/ksakkas/Learn-Wiring-with-Arduino-Mega/blob/master/Lab/sensor_sound.ino">Αισθητήρας Ήχου</a></li>
   <img src="https://raw.githubusercontent.com/ksakkas/Learn-Wiring-with-Arduino-Uno/master/docs/img/soundsensor.jpg" width="40%">
